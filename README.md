@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi there!<br>My name is Fahiem, and I’m a passionate Fullstack Engineer with expertise in Flutter, Laravel, and MySQL. I enjoy building scalable web and mobile applications that solve real-world problems. Oh, and I’m based in Semarang, Indonesia! 🌏<br><br>💻 What I love doing:<br><br>Crafting clean and efficient code.<br>Creating smooth mobile experiences with Flutter.<br>Designing robust backend systems using Laravel.<br>Optimizing database performance in MySQL.<br>Collaborating with other developers and sharing knowledge. (Berkolaborasi dengan developer lain dan berbagi pengetahuan.)
+👋 Hi there!<br>My name is Fahiem, and I’m a passionate Fullstack Engineer with expertise in Flutter, Laravel, and MySQL. I enjoy building scalable web and mobile applications that solve real-world problems. Oh, and I’m based in Semarang, Indonesia! 🌏<br><br>💻 **What I love doing:**
+  🔵 Crafting clean and efficient code.
+  🔵 Creating smooth mobile experiences with Flutter.
+  🔵 Designing robust backend systems using Laravel.
+  🔵 Optimizing database performance in MySQL.
+  🔵 Collaborating with other developers and sharing knowledge.
+
 
 
 ## 🌐 Socials:
@@ -12,7 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fahiem152&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahiem152&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=fahiem152&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
